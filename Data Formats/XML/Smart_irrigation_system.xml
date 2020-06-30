@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel>
+  <id type="integer">596670</id>
+  <name>Smart_irrigation_system_using_IOT</name>
+  <latitude type="decimal">0.0</latitude>
+  <longitude type="decimal">0.0</longitude>
+  <field1>Soil_sensor</field1>
+  <field2>Pump_status</field2>
+  <created-at type="dateTime">2018-10-06T18:09:10Z</created-at>
+  <updated-at type="dateTime">2018-10-06T18:09:35Z</updated-at>
+  <last-entry-id type="integer">81</last-entry-id>
+  <feeds type="array">
+    <feed>
+      <created-at type="dateTime">2018-10-08T09:50:02Z</created-at>
+      <entry-id type="integer">1</entry-id>
+      <field1>0</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T09:50:26Z</created-at>
+      <entry-id type="integer">2</entry-id>
+      <field1>0</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T09:50:50Z</created-at>
+      <entry-id type="integer">3</entry-id>
+      <field1>0</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T09:51:14Z</created-at>
+      <entry-id type="integer">4</entry-id>
+      <field1>0</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T09:51:39Z</created-at>
+      <entry-id type="integer">5</entry-id>
+      <field1>0</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T09:52:03Z</created-at>
+      <entry-id type="integer">6</entry-id>
+      <field1>0</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T09:52:27Z</created-at>
+      <entry-id type="integer">7</entry-id>
+      <field1>64</field1>
+      <field2>0</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T09:52:51Z</created-at>
+      <entry-id type="integer">8</entry-id>
+      <field1>64</field1>
+      <field2>0</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T09:53:15Z</created-at>
+      <entry-id type="integer">9</entry-id>
+      <field1>67</field1>
+      <field2>0</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T09:53:39Z</created-at>
+      <entry-id type="integer">10</entry-id>
+      <field1>65</field1>
+      <field2>0</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T09:54:04Z</created-at>
+      <entry-id type="integer">11</entry-id>
+      <field1>64</field1>
+      <field2>0</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T09:54:33Z</created-at>
+      <entry-id type="integer">12</entry-id>
+      <field1>63</field1>
+      <field2>0</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T09:55:01Z</created-at>
+      <entry-id type="integer">13</entry-id>
+      <field1>60</field1>
+      <field2>0</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T09:55:30Z</created-at>
+      <entry-id type="integer">14</entry-id>
+      <field1>1</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T09:55:58Z</created-at>
+      <entry-id type="integer">15</entry-id>
+      <field1>1</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T09:56:26Z</created-at>
+      <entry-id type="integer">16</entry-id>
+      <field1>1</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T09:56:55Z</created-at>
+      <entry-id type="integer">17</entry-id>
+      <field1>69</field1>
+      <field2>0</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T09:57:23Z</created-at>
+      <entry-id type="integer">18</entry-id>
+      <field1>59</field1>
+      <field2>0</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T09:57:51Z</created-at>
+      <entry-id type="integer">19</entry-id>
+      <field1>58</field1>
+      <field2>0</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T09:58:19Z</created-at>
+      <entry-id type="integer">20</entry-id>
+      <field1>58</field1>
+      <field2>0</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T09:58:40Z</created-at>
+      <entry-id type="integer">21</entry-id>
+      <field1>66</field1>
+      <field2>0</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T09:59:20Z</created-at>
+      <entry-id type="integer">22</entry-id>
+      <field1>63</field1>
+      <field2>0</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T09:59:59Z</created-at>
+      <entry-id type="integer">23</entry-id>
+      <field1>61</field1>
+      <field2>0</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T10:00:23Z</created-at>
+      <entry-id type="integer">24</entry-id>
+      <field1>1</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T10:00:47Z</created-at>
+      <entry-id type="integer">25</entry-id>
+      <field1>1</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T10:01:11Z</created-at>
+      <entry-id type="integer">26</entry-id>
+      <field1>1</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T10:01:35Z</created-at>
+      <entry-id type="integer">27</entry-id>
+      <field1>1</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T10:01:59Z</created-at>
+      <entry-id type="integer">28</entry-id>
+      <field1>1</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T10:02:24Z</created-at>
+      <entry-id type="integer">29</entry-id>
+      <field1>63</field1>
+      <field2>0</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T10:02:48Z</created-at>
+      <entry-id type="integer">30</entry-id>
+      <field1>46</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T10:03:12Z</created-at>
+      <entry-id type="integer">31</entry-id>
+      <field1>47</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T10:03:36Z</created-at>
+      <entry-id type="integer">32</entry-id>
+      <field1>49</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T10:04:00Z</created-at>
+      <entry-id type="integer">33</entry-id>
+      <field1>51</field1>
+      <field2>0</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T10:04:25Z</created-at>
+      <entry-id type="integer">34</entry-id>
+      <field1>36</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:24:51Z</created-at>
+      <entry-id type="integer">35</entry-id>
+      <field1>0</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:25:15Z</created-at>
+      <entry-id type="integer">36</entry-id>
+      <field1>0</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:25:39Z</created-at>
+      <entry-id type="integer">37</entry-id>
+      <field1>0</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:26:03Z</created-at>
+      <entry-id type="integer">38</entry-id>
+      <field1>0</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:26:28Z</created-at>
+      <entry-id type="integer">39</entry-id>
+      <field1>0</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:26:52Z</created-at>
+      <entry-id type="integer">40</entry-id>
+      <field1>0</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:27:16Z</created-at>
+      <entry-id type="integer">41</entry-id>
+      <field1>0</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:27:40Z</created-at>
+      <entry-id type="integer">42</entry-id>
+      <field1>0</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:28:04Z</created-at>
+      <entry-id type="integer">43</entry-id>
+      <field1>0</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:28:28Z</created-at>
+      <entry-id type="integer">44</entry-id>
+      <field1>43</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:28:53Z</created-at>
+      <entry-id type="integer">45</entry-id>
+      <field1>40</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:29:17Z</created-at>
+      <entry-id type="integer">46</entry-id>
+      <field1>39</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:29:41Z</created-at>
+      <entry-id type="integer">47</entry-id>
+      <field1>39</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:30:05Z</created-at>
+      <entry-id type="integer">48</entry-id>
+      <field1>38</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:30:29Z</created-at>
+      <entry-id type="integer">49</entry-id>
+      <field1>38</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:30:53Z</created-at>
+      <entry-id type="integer">50</entry-id>
+      <field1>38</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:31:17Z</created-at>
+      <entry-id type="integer">51</entry-id>
+      <field1>38</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:31:42Z</created-at>
+      <entry-id type="integer">52</entry-id>
+      <field1>38</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:32:06Z</created-at>
+      <entry-id type="integer">53</entry-id>
+      <field1>38</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:32:30Z</created-at>
+      <entry-id type="integer">54</entry-id>
+      <field1>69</field1>
+      <field2>0</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:32:54Z</created-at>
+      <entry-id type="integer">55</entry-id>
+      <field1>65</field1>
+      <field2>0</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:33:18Z</created-at>
+      <entry-id type="integer">56</entry-id>
+      <field1>65</field1>
+      <field2>0</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:33:42Z</created-at>
+      <entry-id type="integer">57</entry-id>
+      <field1>64</field1>
+      <field2>0</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:34:07Z</created-at>
+      <entry-id type="integer">58</entry-id>
+      <field1>64</field1>
+      <field2>0</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:34:31Z</created-at>
+      <entry-id type="integer">59</entry-id>
+      <field1>64</field1>
+      <field2>0</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:34:55Z</created-at>
+      <entry-id type="integer">60</entry-id>
+      <field1>62</field1>
+      <field2>0</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:35:19Z</created-at>
+      <entry-id type="integer">61</entry-id>
+      <field1>62</field1>
+      <field2>0</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:35:43Z</created-at>
+      <entry-id type="integer">62</entry-id>
+      <field1>61</field1>
+      <field2>0</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:36:08Z</created-at>
+      <entry-id type="integer">63</entry-id>
+      <field1>61</field1>
+      <field2>0</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:36:32Z</created-at>
+      <entry-id type="integer">64</entry-id>
+      <field1>57</field1>
+      <field2>0</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:36:56Z</created-at>
+      <entry-id type="integer">65</entry-id>
+      <field1>57</field1>
+      <field2>0</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:37:20Z</created-at>
+      <entry-id type="integer">66</entry-id>
+      <field1>57</field1>
+      <field2>0</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:37:44Z</created-at>
+      <entry-id type="integer">67</entry-id>
+      <field1>57</field1>
+      <field2>0</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:38:08Z</created-at>
+      <entry-id type="integer">68</entry-id>
+      <field1>56</field1>
+      <field2>0</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:38:32Z</created-at>
+      <entry-id type="integer">69</entry-id>
+      <field1>56</field1>
+      <field2>0</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:38:56Z</created-at>
+      <entry-id type="integer">70</entry-id>
+      <field1>31</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-08T14:39:21Z</created-at>
+      <entry-id type="integer">71</entry-id>
+      <field1>30</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-10T17:40:46Z</created-at>
+      <entry-id type="integer">72</entry-id>
+      <field1>1</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-10T17:41:11Z</created-at>
+      <entry-id type="integer">73</entry-id>
+      <field1>1</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-10T17:41:35Z</created-at>
+      <entry-id type="integer">74</entry-id>
+      <field1>1</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-10T17:41:59Z</created-at>
+      <entry-id type="integer">75</entry-id>
+      <field1>1</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-10T17:42:23Z</created-at>
+      <entry-id type="integer">76</entry-id>
+      <field1>1</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-10T17:42:47Z</created-at>
+      <entry-id type="integer">77</entry-id>
+      <field1>7</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-10T17:43:11Z</created-at>
+      <entry-id type="integer">78</entry-id>
+      <field1>47</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-10T17:43:35Z</created-at>
+      <entry-id type="integer">79</entry-id>
+      <field1>53</field1>
+      <field2>0</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-10T17:43:59Z</created-at>
+      <entry-id type="integer">80</entry-id>
+      <field1>10</field1>
+      <field2>100</field2>
+    </feed>
+    <feed>
+      <created-at type="dateTime">2018-10-10T17:44:24Z</created-at>
+      <entry-id type="integer">81</entry-id>
+      <field1>52</field1>
+      <field2>0</field2>
+    </feed>
+  </feeds>
+</channel>
